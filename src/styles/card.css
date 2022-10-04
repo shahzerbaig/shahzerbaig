@@ -1,0 +1,9 @@
+.card{
+    height: 35vh;
+    width:80vw;
+    border:1px solid white;
+}
+.card:hover{
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,57 @@
+@media only screen and (min-width: 769px){
+    footer{
+        display: flex;
+        flex-direction: row;
+        color:aliceblue;
+        width: 100vw;
+    }
+    
+    .linkBox{
+        width: 25%;
+        height: 10vh;
+        padding-top: 20px;
+        text-align: center;
+    }
+    
+    .linkBox:hover{
+        background-color: aliceblue;
+    }
+    
+    .instagram,.linkedin,.medium,.github{
+        height: 2rem;
+    }
+    
+    img.github{
+        border-radius: 50%;
+        background-color: white;
+    }
+}
+
+
+@media only screen and (max-width: 768px){
+    footer{
+        display: flex;
+        flex-wrap: wrap;
+        background-color: black;
+        height: 15vh;
+
+    }
+
+    .linkBox{
+        width: 25%;
+        height: 100%;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .linkBox:hover{
+        background-color: aliceblue;
+    }
+    .instagram,.linkedin,.medium,.github{
+        height: 4rem;
+    }
+    img.github{
+        border-radius: 50%;
+        background-color: white;
+    }
+
+}

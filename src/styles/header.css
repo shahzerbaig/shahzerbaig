@@ -1,0 +1,47 @@
+@media only screen and (min-width: 769px){
+    Header{
+        display: flex;
+        flex-direction: row;
+        background-color: black;
+        width: 50%;
+        margin: 0 auto;
+        justify-content: center;
+        font-size: 2rem;
+        color: white;
+    }
+    header:hover{
+        background-color: white;  
+        color: black;
+    }
+    header>.name{
+        color: inherit;
+       
+    }
+    .unicorn{
+        height: 4rem;
+        width:4rem;
+        margin-left: 10px ;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    header{
+        margin: 0 auto;
+        justify-content: center;
+        font-size: 1.4rem;
+        color: white;
+        display: flex;
+        flex-direction: row;
+        font-family: Arial;
+    }
+    header:hover{
+        background-color: white;  
+        color: black;
+    }
+    .unicorn{
+        height: 3.2rem;
+        width:3.2rem;
+        margin-left: 10px ;
+    }
+}
+
