@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shahzerbaig/static/css/main.882b399c.css",
-    "main.js": "/shahzerbaig/static/js/main.0c756210.js",
+    "main.css": "/shahzerbaig/static/css/main.29da22cd.css",
+    "main.js": "/shahzerbaig/static/js/main.d2acf21b.js",
     "static/media/unicorn.png": "/shahzerbaig/static/media/unicorn.32f900cabc3558ab79ff.png",
     "static/media/instagram.png": "/shahzerbaig/static/media/instagram.75e0546a6b5abe4c0506.png",
     "static/media/medium.png": "/shahzerbaig/static/media/medium.1a0861837dbd0b3481e6.png",
     "static/media/linkedin.png": "/shahzerbaig/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/shahzerbaig/index.html",
-    "main.882b399c.css.map": "/shahzerbaig/static/css/main.882b399c.css.map",
-    "main.0c756210.js.map": "/shahzerbaig/static/js/main.0c756210.js.map"
+    "main.29da22cd.css.map": "/shahzerbaig/static/css/main.29da22cd.css.map",
+    "main.d2acf21b.js.map": "/shahzerbaig/static/js/main.d2acf21b.js.map"
   },
   "entrypoints": [
-    "static/css/main.882b399c.css",
-    "static/js/main.0c756210.js"
+    "static/css/main.29da22cd.css",
+    "static/js/main.d2acf21b.js"
   ]
 }
