@@ -3,7 +3,17 @@
     width:80vw;
     border:1px solid white;
 }
-.card:hover{
+a{
+    color: white;
+    text-decoration: none;
+ 
+}
+a:hover{
+    color: black;
+}
+.card:hover, a:hover{
     background-color: white;
     color: black;
+    cursor: pointer;
+
 }
