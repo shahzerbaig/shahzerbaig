@@ -1,2 +1,1 @@
-a
-
+# let there be Light
